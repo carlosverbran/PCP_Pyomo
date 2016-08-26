@@ -31,15 +31,14 @@ def algorit(n, m):
     namelp = 'prob' + str(n) + '.lp'
     print nameins
     start_time = time.time()
-    instance = m.create(nameins)
-    opt = pyomo.opt.base.solvers.SolverFactory('gurobi', options = options_in)
-    opt.symbolic_solver_labels=True        
+    instance = m.create_instance(nameins)
+    opt = pyomo.opt.base.solvers.SolverFactory('gurobi', options = options_in)      
     #instance.write(namelp,  io_options={'symbolic_solver_labels':True})
     elapsed_time =  '%2.2f' % float(time.time()-start_time)
     print 'time to instance', str(elapsed_time),  's'
     start_time = time.time()
     results = opt.solve(instance)
-    instance.load(results)
+    instance.solutions.load_from(results)
     print 'tiempo de resolucion', time.time() - start_time, 's'
 #    optVal[n-1] = results.solution.objective.__default_objective__.value
     start_time = time.time()
