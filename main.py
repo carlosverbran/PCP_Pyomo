@@ -11,7 +11,7 @@ import multiprocessing as mp
 from pyomo.core import *
 from pyomo.opt import SolverFactory
 from ReferenceModel import model
-from wrcsv import pyomo_postprocess
+from wrcsvCVB import pyomo_postprocess
 
 options_in = {}
 
@@ -42,7 +42,7 @@ def algorit(n, m):
     print 'tiempo de resolucion', time.time() - start_time, 's'
 #    optVal[n-1] = results.solution.objective.__default_objective__.value
     start_time = time.time()
-    pyomo_postprocess(results, n)
+    pyomo_postprocess(results, n, instance)
     print 'tiempo de escritura', time.time() - start_time, 's'
    
 #Secuencial

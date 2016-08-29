@@ -5038,3 +5038,1226 @@ Optimal solution found (tolerance 1.00e-04)
 Warning: max constraint violation (9.2524e-04) exceeds tolerance
          (possibly due to large right hand sides)
 Best objective 2.803050922312e+09, best bound 2.803050922312e+09, gap 0.0%
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:50 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [5e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:50 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:51 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [9e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:51 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [5e-04, 4e+09]
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [8e-03, 4e+09]
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [9e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [7e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Fri Aug 26 21:21:52 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+Presolve removed 25313 rows and 137835 columns (presolve time = 5s) ...
+Presolve removed 25313 rows and 137834 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137812 columns (presolve time = 5s) ...
+Presolve removed 28331 rows and 142545 columns
+Presolve time: 6.52s
+Presolved: 44132 rows, 687599 columns, 1798777 nonzeros
+Presolve removed 25312 rows and 137809 columns (presolve time = 5s) ...
+Variable types: 687599 continuous, 0 integer (0 binary)
+Presolve removed 25318 rows and 137972 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137831 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137801 columns (presolve time = 5s) ...
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012599e+09   0.000000e+00     11s
+Presolve removed 25312 rows and 137813 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137831 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137812 columns (presolve time = 5s) ...
+Presolve removed 25316 rows and 137910 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137825 columns (presolve time = 5s) ...
+Presolve removed 28331 rows and 142553 columns
+Presolve time: 6.84s
+Presolved: 44132 rows, 687591 columns, 1798769 nonzeros
+Variable types: 687591 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142538 columns
+Presolve time: 6.66s
+Presolved: 44133 rows, 687606 columns, 1798804 nonzeros
+Variable types: 687606 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012596e+09   0.000000e+00     12s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     11s
+Presolve removed 28330 rows and 142529 columns
+Presolve time: 7.06s
+Presolved: 44133 rows, 687615 columns, 1798813 nonzeros
+Presolve removed 28336 rows and 142672 columns
+Presolve time: 7.02s
+Presolved: 44127 rows, 687472 columns, 1798537 nonzeros
+Presolve removed 28330 rows and 142551 columns
+Presolve time: 6.95s
+Presolved: 44133 rows, 687593 columns, 1798776 nonzeros
+Variable types: 687615 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142541 columns
+Presolve time: 6.91s
+Presolved: 44133 rows, 687603 columns, 1798786 nonzeros
+Presolve removed 28330 rows and 142539 columns
+Presolve time: 7.09s
+Presolved: 44133 rows, 687605 columns, 1798803 nonzeros
+Variable types: 687472 continuous, 0 integer (0 binary)
+Variable types: 687593 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142506 columns
+Presolve time: 7.22s
+Presolved: 44133 rows, 687638 columns, 1798836 nonzeros
+Variable types: 687603 continuous, 0 integer (0 binary)
+Variable types: 687605 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012600e+09   0.000000e+00     12s
+Presolve removed 28330 rows and 142537 columns
+Presolve time: 7.05s
+Presolved: 44133 rows, 687607 columns, 1798805 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012592e+09   0.000000e+00     12s
+Variable types: 687638 continuous, 0 integer (0 binary)
+Presolve removed 28334 rows and 142622 columns
+Presolve time: 7.17s
+Presolved: 44129 rows, 687522 columns, 1798640 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012595e+09   0.000000e+00     12s
+Variable types: 687607 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142527 columns
+Presolve time: 6.98s
+Presolved: 44133 rows, 687617 columns, 1798802 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012599e+09   0.000000e+00     12s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     12s
+Variable types: 687522 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012605e+09   0.000000e+00     12s
+Variable types: 687617 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012592e+09   0.000000e+00     12s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     12s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012601e+09   0.000000e+00     12s
+   44016    2.7892770e+09   6.971424e+05   0.000000e+00     15s
+   41954    2.7892618e+09   2.480905e+06   0.000000e+00     15s
+   42895    2.7892619e+09   1.107614e+06   0.000000e+00     15s
+   40497    2.6645052e+09   7.665888e+05   0.000000e+00     15s
+   40207    2.7892605e+09   1.142625e+06   0.000000e+00     15s
+   41732    2.7892612e+09   1.136013e+06   0.000000e+00     15s
+   44123    2.7892771e+09   1.078905e+06   0.000000e+00     15s
+   40411    2.7892605e+09   1.596045e+06   0.000000e+00     15s
+   42481    2.7892612e+09   1.901396e+06   0.000000e+00     15s
+   42755    2.7892615e+09   1.323406e+06   0.000000e+00     15s
+   39310    2.7892599e+09   2.009475e+06   0.000000e+00     15s
+   40941    2.7056818e+09   1.311138e+06   0.000000e+00     15s
+   70030    2.8030456e+09   6.648119e+04   0.000000e+00     20s
+   69368    2.8030459e+09   3.127521e+04   0.000000e+00     20s
+   68782    2.8030458e+09   1.291243e+05   0.000000e+00     20s
+   67262    2.8030455e+09   2.081629e+05   0.000000e+00     20s
+   68865    2.8030458e+09   4.972297e+04   0.000000e+00     20s
+   68403    2.8030455e+09   1.309908e+05   0.000000e+00     20s
+   66870    2.8030454e+09   2.881248e+05   0.000000e+00     20s
+   68721    2.8030454e+09   1.448755e+05   0.000000e+00     20s
+   69092    2.8030455e+09   3.666075e+04   0.000000e+00     20s
+   71744    2.8030458e+09   3.910106e+04   0.000000e+00     20s
+   68396    2.8030453e+09   6.571541e+04   0.000000e+00     20s
+   68736    2.8030455e+09   1.058352e+05   0.000000e+00     20s
+   93484    2.8030478e+09   9.696765e+05   0.000000e+00     25s
+   90867    2.8030479e+09   8.766238e+05   0.000000e+00     25s
+   90795    2.8030478e+09   3.215638e+06   0.000000e+00     25s
+   85346    2.8030473e+09   4.382806e+05   0.000000e+00     25s
+   92033    2.8030479e+09   7.196221e+05   0.000000e+00     25s
+   89102    2.8030474e+09   7.825209e+05   0.000000e+00     25s
+   85852    2.8030472e+09   9.641738e+05   0.000000e+00     25s
+   95886    2.8030479e+09   1.317029e+06   0.000000e+00     25s
+   89546    2.8030474e+09   5.860756e+05   0.000000e+00     25s
+   96529    2.8030481e+09   1.704577e+06   0.000000e+00     25s
+   86654    2.8030471e+09   1.030917e+06   0.000000e+00     25s
+   96591    2.8030480e+09   7.326757e+05   0.000000e+00     25s
+  106872    2.8030494e+09   3.736045e+05   0.000000e+00     30s
+  104922    2.8030497e+09   6.002269e+05   0.000000e+00     30s
+  106135    2.8030492e+09   3.193432e+05   0.000000e+00     30s
+  106811    2.8030497e+09   8.399238e+05   0.000000e+00     30s
+  103871    2.8030491e+09   3.852673e+05   0.000000e+00     30s
+  104517    2.8030496e+09   2.848001e+05   0.000000e+00     31s
+  104997    2.8030493e+09   4.578260e+05   0.000000e+00     30s
+  108554    2.8030494e+09   4.761050e+05   0.000000e+00     30s
+  105403    2.8030491e+09   4.326680e+05   0.000000e+00     30s
+  104140    2.8030490e+09   4.737501e+05   0.000000e+00     30s
+  107213    2.8030495e+09   2.501767e+05   0.000000e+00     30s
+  106679    2.8030492e+09   4.783641e+05   0.000000e+00     30s
+  109428    2.8030502e+09   2.988472e+05   0.000000e+00     35s
+  110319    2.8030497e+09   7.945432e+05   0.000000e+00     36s
+  112771    2.8030500e+09   4.025306e+05   0.000000e+00     35s
+  107994    2.8030499e+09   5.142837e+05   0.000000e+00     36s
+  110346    2.8030501e+09   5.230575e+05   0.000000e+00     35s
+  109134    2.8030496e+09   4.425817e+05   0.000000e+00     35s
+  109828    2.8030498e+09   8.031440e+05   0.000000e+00     35s
+  113009    2.8030499e+09   3.429894e+05   0.000000e+00     35s
+  109336    2.8030498e+09   2.060710e+06   0.000000e+00     35s
+  107688    2.8030494e+09   3.377471e+05   0.000000e+00     35s
+  110353    2.8030497e+09   2.622564e+05   0.000000e+00     36s
+  112883    2.8030500e+09   6.961873e+05   0.000000e+00     36s
+  113136    2.8030505e+09   2.862038e+05   0.000000e+00     40s
+  113260    2.8030500e+09   1.154767e+06   0.000000e+00     41s
+  110580    2.8030501e+09   1.124025e+06   0.000000e+00     41s
+  112759    2.8030503e+09   5.733935e+05   0.000000e+00     40s
+  112074    2.8030501e+09   6.073258e+05   0.000000e+00     40s
+  110503    2.8030496e+09   4.977353e+05   0.000000e+00     40s
+  115887    2.8030501e+09   1.379963e+06   0.000000e+00     40s
+  111902    2.8030499e+09   4.368871e+05   0.000000e+00     40s
+  114917    2.8030501e+09   2.669441e+05   0.000000e+00     40s
+  112796    2.8030499e+09   3.182656e+05   0.000000e+00     41s
+  115606    2.8030502e+09   7.111059e+05   0.000000e+00     41s
+  113728    2.8030502e+09   1.000642e+06   0.000000e+00     41s
+  115375    2.8030501e+09   5.775121e+05   0.000000e+00     45s
+  115180    2.8030507e+09   4.948665e+05   0.000000e+00     45s
+  112939    2.8030503e+09   8.050469e+05   0.000000e+00     45s
+  114527    2.8030504e+09   7.895834e+05   0.000000e+00     45s
+  117959    2.8030504e+09   1.441742e+06   0.000000e+00     46s
+  113033    2.8030498e+09   5.908597e+05   0.000000e+00     45s
+  115590    2.8030501e+09   1.004747e+06   0.000000e+00     45s
+  118324    2.8030504e+09   3.086705e+06   0.000000e+00     45s
+  114863    2.8030502e+09   1.505386e+06   0.000000e+00     46s
+  114884    2.8030502e+09   3.571340e+05   0.000000e+00     46s
+  115981    2.8030503e+09   5.882388e+05   0.000000e+00     45s
+  117058    2.8030502e+09   6.482682e+05   0.000000e+00     45s
+  118128    2.8030503e+09   5.273411e+05   0.000000e+00     50s
+  117931    2.8030509e+09   1.595134e+05   0.000000e+00     50s
+  116230    2.8030506e+09   1.183730e+06   0.000000e+00     50s
+  117632    2.8030503e+09   3.770323e+05   0.000000e+00     50s
+  117097    2.8030506e+09   6.960013e+05   0.000000e+00     50s
+  117576    2.8030503e+09   2.982562e+05   0.000000e+00     50s
+  118369    2.8030505e+09   1.571245e+05   0.000000e+00     50s
+  115886    2.8030500e+09   6.634262e+05   0.000000e+00     50s
+  119758    2.8030506e+09   1.385541e+05   0.000000e+00     50s
+  121040    2.8030506e+09   2.487550e+05   0.000000e+00     51s
+  120854    2.8030506e+09   3.865879e+05   0.000000e+00     51s
+  120096    2.8030505e+09   9.646671e+05   0.000000e+00     50s
+  122325    2.8030506e+09   1.189366e+06   0.000000e+00     55s
+  121434    2.8030510e+09   3.734032e+05   0.000000e+00     55s
+  119820    2.8030509e+09   2.551222e+05   0.000000e+00     55s
+  119462    2.8030507e+09   1.354856e+06   0.000000e+00     55s
+  120700    2.8030505e+09   3.242528e+05   0.000000e+00     55s
+  120166    2.8030506e+09   2.464085e+05   0.000000e+00     55s
+  124551    2.8030508e+09   2.864116e+05   0.000000e+00     56s
+  124067    2.8030507e+09   2.321792e+05   0.000000e+00     55s
+  119300    2.8030504e+09   2.417834e+05   0.000000e+00     55s
+  123527    2.8030506e+09   1.916593e+05   0.000000e+00     55s
+  121709    2.8030506e+09   2.881630e+05   0.000000e+00     56s
+  123845    2.8030508e+09   4.594038e+05   0.000000e+00     56s
+  124194    2.8030511e+09   2.284781e+05   0.000000e+00     60s
+  125409    2.8030507e+09   4.180859e+05   0.000000e+00     60s
+  122524    2.8030510e+09   4.380128e+05   0.000000e+00     60s
+  126948    2.8030508e+09   5.791780e+05   0.000000e+00     60s
+  124602    2.8030507e+09   4.121582e+05   0.000000e+00     60s
+  123380    2.8030508e+09   6.366490e+04   0.000000e+00     60s
+  124708    2.8030507e+09   7.940980e+05   0.000000e+00     60s
+  123433    2.8030510e+09   2.375950e+05   0.000000e+00     61s
+  127751    2.8030509e+09   2.039133e+05   0.000000e+00     61s
+  126140    2.8030508e+09   3.337613e+05   0.000000e+00     60s
+  122740    2.8030506e+09   2.934460e+05   0.000000e+00     60s
+  126284    2.8030509e+09   1.195125e+05   0.000000e+00     61s
+  128499    2.8030508e+09   2.127475e+05   0.000000e+00     65s
+  127927    2.8030512e+09   1.634880e+04   0.000000e+00     65s
+  125110    2.8030511e+09   4.156345e+05   0.000000e+00     65s
+  126417    2.8030509e+09   3.885708e+05   0.000000e+00     65s
+  127254    2.8030508e+09   2.957056e+05   0.000000e+00     65s
+  130670    2.8030510e+09   3.701249e+04   0.000000e+00     66s
+  127307    2.8030508e+09   1.857305e+05   0.000000e+00     65s
+  129301    2.8030510e+09   3.323580e+04   0.000000e+00     65s
+  128123    2.8030508e+09   1.733131e+05   0.000000e+00     65s
+  130365    2.8030510e+09   3.437808e+05   0.000000e+00     66s
+  125737    2.8030511e+09   6.924472e+05   0.000000e+00     66s
+  125518    2.8030507e+09   2.372039e+05   0.000000e+00     66s
+  129494    2.8030512e+09   0.000000e+00   0.000000e+00     69s
+
+Root relaxation: objective 2.803051e+09, 129494 iterations, 57.72 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   69s
+  130719    2.8030508e+09   2.727752e+04   0.000000e+00     70s
+
+Explored 0 nodes (129495 simplex iterations) in 69.66 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.5741e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051198963e+09, best bound 2.803051198963e+09, gap 0.0%
+  128683    2.8030508e+09   0.000000e+00   0.000000e+00     69s
+
+Root relaxation: objective 2.803051e+09, 128683 iterations, 57.76 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   69s
+
+Explored 0 nodes (128683 simplex iterations) in 69.53 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.1620e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050786647e+09, best bound 2.803050786647e+09, gap 0.0000%
+  132866    2.8030510e+09   1.926456e+04   0.000000e+00     70s
+  128129    2.8030512e+09   2.232163e+04   0.000000e+00     71s
+  133079    2.8030510e+09   0.000000e+00   0.000000e+00     70s
+
+Root relaxation: objective 2.803051e+09, 133079 iterations, 58.86 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   70s
+  129587    2.8030509e+09   2.306088e+04   0.000000e+00     70s
+  130092    2.8030509e+09   2.506515e+04   0.000000e+00     71s
+
+Explored 0 nodes (133079 simplex iterations) in 70.85 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+  127279    2.8030507e+09   6.148222e+04   0.000000e+00     70s
+Warning: max constraint violation (8.4423e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051002041e+09, best bound 2.803051002041e+09, gap 0.0%
+  127706    2.8030511e+09   2.382028e+05   0.000000e+00     71s
+  131756    2.8030509e+09   0.000000e+00   0.000000e+00     73s
+
+Root relaxation: objective 2.803051e+09, 131756 iterations, 61.74 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   72s
+
+Explored 0 nodes (131756 simplex iterations) in 72.63 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7614e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050852026e+09, best bound 2.803050852026e+09, gap 0.0%
+  130912    2.8030509e+09   2.689952e+04   0.000000e+00     71s
+  131472    2.8030510e+09   2.346835e+05   0.000000e+00     71s
+  131597    2.8030510e+09   0.000000e+00   0.000000e+00     72s
+
+Root relaxation: objective 2.803051e+09, 131597 iterations, 59.98 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   71s
+
+Explored 0 nodes (131597 simplex iterations) in 71.67 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7540e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050967673e+09, best bound 2.803050967673e+09, gap 0.0%
+  134582    2.8030510e+09   0.000000e+00   0.000000e+00     74s
+
+Root relaxation: objective 2.803051e+09, 134582 iterations, 61.81 seconds
+  129752    2.8030512e+09   0.000000e+00   0.000000e+00     74s
+
+Root relaxation: objective 2.803051e+09, 129752 iterations, 63.21 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   73s
+
+Explored 0 nodes (134582 simplex iterations) in 73.81 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7327e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051008288e+09, best bound 2.803051008288e+09, gap 0.0%
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   74s
+  131318    2.8030509e+09   0.000000e+00   0.000000e+00     74s
+
+Root relaxation: objective 2.803051e+09, 131318 iterations, 62.37 seconds
+
+Explored 0 nodes (129753 simplex iterations) in 74.67 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.7483e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051157388e+09, best bound 2.803051157388e+09, gap 0.0%
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   74s
+
+Explored 0 nodes (131318 simplex iterations) in 74.31 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.2524e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050922312e+09, best bound 2.803050922312e+09, gap 0.0%
+  131649    2.8030509e+09   0.000000e+00   0.000000e+00     75s
+
+Root relaxation: objective 2.803051e+09, 131649 iterations, 62.96 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   74s
+
+Explored 0 nodes (131649 simplex iterations) in 74.69 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.4583e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050863368e+09, best bound 2.803050863368e+09, gap 0.0%
+  132883    2.8030509e+09   0.000000e+00   0.000000e+00     74s
+
+Root relaxation: objective 2.803051e+09, 132883 iterations, 62.78 seconds
+  130334    2.8030512e+09   5.636429e+05   0.000000e+00     75s
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   74s
+
+Explored 0 nodes (132883 simplex iterations) in 74.66 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7994e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050881229e+09, best bound 2.803050881229e+09, gap 0.0%
+  130363    2.8030508e+09   2.223433e-01   0.000000e+00     75s
+  130366    2.8030508e+09   0.000000e+00   0.000000e+00     75s
+
+Root relaxation: objective 2.803051e+09, 130366 iterations, 63.73 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   75s
+
+Explored 0 nodes (130366 simplex iterations) in 75.48 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.9733e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050762601e+09, best bound 2.803050762601e+09, gap 0.0%
+  132826    2.8030512e+09   0.000000e+00   0.000000e+00     80s
+
+Root relaxation: objective 2.803051e+09, 132826 iterations, 67.98 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   79s
+
+Explored 0 nodes (132826 simplex iterations) in 79.85 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.8866e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051204941e+09, best bound 2.803051204941e+09, gap 0.0%
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:53 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [5e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:54 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:54 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:55 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [9e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:55 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [9e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:55 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [8e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:55 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [7e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:55 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:56 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [5e-04, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:56 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:56 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [3e-04, 4e+09]
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+
+Gurobi 6.5.1 (linux64) logging started Mon Aug 29 14:21:56 2016
+
+Changed value of parameter LogFile to solver.log
+   Prev: gurobi.log  Default: 
+Changed value of parameter OptimalityTol to 1e-09
+   Prev: 1e-06  Min: 1e-09  Max: 0.01  Default: 1e-06
+Optimize a model with 72463 rows, 830144 columns and 2870732 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 2e+06]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [3e-01, 6e+06]
+  RHS range       [1e-03, 4e+09]
+Presolve removed 25313 rows and 137835 columns (presolve time = 5s) ...
+Presolve removed 25313 rows and 137834 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137831 columns (presolve time = 5s) ...
+Presolve removed 25318 rows and 137972 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137812 columns (presolve time = 5s) ...
+Presolve removed 28331 rows and 142545 columns
+Presolve time: 6.57s
+Presolved: 44132 rows, 687599 columns, 1798777 nonzeros
+Presolve removed 25312 rows and 137812 columns (presolve time = 5s) ...
+Presolve removed 25312 rows and 137801 columns (presolve time = 5s) ...
+Variable types: 687599 continuous, 0 integer (0 binary)
+Presolve removed 25312 rows and 137825 columns (presolve time = 5s) ...
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012599e+09   0.000000e+00     11s
+Presolve removed 28331 rows and 142553 columns
+Presolve time: 6.65s
+Presolved: 44132 rows, 687591 columns, 1798769 nonzeros
+Presolve removed 25121 rows and 137622 columns (presolve time = 5s) ...
+Variable types: 687591 continuous, 0 integer (0 binary)
+Presolve removed 25316 rows and 137910 columns (presolve time = 5s) ...
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012596e+09   0.000000e+00     11s
+Presolve removed 28330 rows and 142551 columns
+Presolve time: 6.87s
+Presolved: 44133 rows, 687593 columns, 1798776 nonzeros
+Presolve removed 25312 rows and 137809 columns (presolve time = 5s) ...
+Variable types: 687593 continuous, 0 integer (0 binary)
+Presolve removed 28336 rows and 142672 columns
+Presolve time: 6.86s
+Presolved: 44127 rows, 687472 columns, 1798537 nonzeros
+Presolve removed 25121 rows and 137640 columns (presolve time = 5s) ...
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012595e+09   0.000000e+00     11s
+Presolve removed 28330 rows and 142538 columns
+Presolve time: 6.71s
+Presolved: 44133 rows, 687606 columns, 1798804 nonzeros
+Variable types: 687472 continuous, 0 integer (0 binary)
+Variable types: 687606 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142537 columns
+Presolve time: 6.85s
+Presolved: 44133 rows, 687607 columns, 1798805 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012592e+09   0.000000e+00     11s
+Presolve removed 28330 rows and 142506 columns
+Presolve time: 7.00s
+Presolved: 44133 rows, 687638 columns, 1798836 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     11s
+Variable types: 687607 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142527 columns
+Presolve time: 7.06s
+Presolved: 44133 rows, 687617 columns, 1798802 nonzeros
+Variable types: 687638 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012592e+09   0.000000e+00     12s
+Variable types: 687617 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012605e+09   0.000000e+00     12s
+Presolve removed 28334 rows and 142622 columns
+Presolve time: 6.75s
+Presolved: 44129 rows, 687522 columns, 1798640 nonzeros
+Variable types: 687522 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012601e+09   0.000000e+00     12s
+Presolve removed 28330 rows and 142539 columns
+Presolve time: 7.08s
+Presolved: 44133 rows, 687605 columns, 1798803 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     11s
+Variable types: 687605 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142529 columns
+Presolve time: 7.22s
+Presolved: 44133 rows, 687615 columns, 1798813 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012587e+09   0.000000e+00     12s
+Variable types: 687615 continuous, 0 integer (0 binary)
+Presolve removed 28330 rows and 142541 columns
+Presolve time: 7.09s
+Presolved: 44133 rows, 687603 columns, 1798786 nonzeros
+Variable types: 687603 continuous, 0 integer (0 binary)
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012600e+09   0.000000e+00     12s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -8.8026155e+10   1.012599e+09   0.000000e+00     12s
+   44016    2.7892770e+09   6.971424e+05   0.000000e+00     15s
+   45428    2.7892781e+09   5.250863e+05   0.000000e+00     15s
+   43020    2.7892617e+09   2.304288e+06   0.000000e+00     15s
+   44123    2.7892771e+09   1.078905e+06   0.000000e+00     15s
+   42895    2.7892619e+09   1.107614e+06   0.000000e+00     15s
+   38631    2.7892599e+09   1.449006e+06   0.000000e+00     15s
+   43470    2.7892618e+09   1.447665e+06   0.000000e+00     15s
+   37586    2.7892593e+09   8.518862e+05   0.000000e+00     15s
+   42481    2.7892612e+09   1.901396e+06   0.000000e+00     15s
+   40497    2.6645052e+09   7.665888e+05   0.000000e+00     15s
+   42889    2.7067390e+09   2.441292e+06   0.000000e+00     15s
+   39948    2.7892603e+09   9.773683e+05   0.000000e+00     15s
+   70030    2.8030456e+09   6.648119e+04   0.000000e+00     20s
+   70955    2.8030460e+09   2.801398e+05   0.000000e+00     20s
+   70413    2.8030460e+09   3.511397e+04   0.000000e+00     20s
+   68721    2.8030454e+09   1.448755e+05   0.000000e+00     20s
+   69827    2.8030459e+09   3.986256e+04   0.000000e+00     20s
+   67564    2.8030456e+09   1.200906e+05   0.000000e+00     20s
+   64556    2.8030454e+09   1.441787e+04   0.000000e+00     20s
+   70137    2.8030456e+09   4.529331e+04   0.000000e+00     21s
+   68307    2.8030456e+09   3.014609e+04   0.000000e+00     20s
+   69441    2.8030454e+09   3.907748e+04   0.000000e+00     20s
+   68403    2.8030455e+09   1.309908e+05   0.000000e+00     20s
+   68960    2.8030455e+09   4.026860e+04   0.000000e+00     21s
+   94529    2.8030478e+09   8.641288e+05   0.000000e+00     25s
+   92373    2.8030480e+09   9.250193e+05   0.000000e+00     25s
+   95643    2.8030482e+09   5.402391e+05   0.000000e+00     25s
+   90591    2.8030475e+09   7.767021e+05   0.000000e+00     25s
+   92871    2.8030480e+09   2.624618e+06   0.000000e+00     25s
+   85997    2.8030473e+09   1.582263e+06   0.000000e+00     25s
+   96529    2.8030481e+09   1.704577e+06   0.000000e+00     25s
+   84051    2.8030472e+09   5.138956e+05   0.000000e+00     25s
+   88718    2.8030473e+09   2.233583e+06   0.000000e+00     25s
+   90571    2.8030476e+09   6.019862e+05   0.000000e+00     25s
+   91755    2.8030475e+09   1.485679e+06   0.000000e+00     25s
+   90147    2.8030475e+09   8.706251e+05   0.000000e+00     25s
+  106872    2.8030494e+09   3.736045e+05   0.000000e+00     30s
+  104922    2.8030497e+09   6.002269e+05   0.000000e+00     30s
+  107521    2.8030498e+09   5.446413e+05   0.000000e+00     31s
+  105385    2.8030493e+09   4.724852e+05   0.000000e+00     30s
+  104517    2.8030496e+09   2.848001e+05   0.000000e+00     30s
+  106784    2.8030492e+09   8.315314e+05   0.000000e+00     30s
+  102537    2.8030487e+09   5.324945e+05   0.000000e+00     30s
+  107213    2.8030495e+09   2.501767e+05   0.000000e+00     30s
+  105825    2.8030492e+09   4.136606e+05   0.000000e+00     30s
+  105212    2.8030491e+09   3.136696e+05   0.000000e+00     30s
+  107157    2.8030494e+09   1.781762e+05   0.000000e+00     30s
+  103871    2.8030491e+09   3.852673e+05   0.000000e+00     30s
+  110319    2.8030497e+09   7.945432e+05   0.000000e+00     36s
+  109794    2.8030502e+09   4.192543e+05   0.000000e+00     35s
+  111057    2.8030501e+09   4.238032e+05   0.000000e+00     35s
+  108244    2.8030499e+09   8.593444e+05   0.000000e+00     35s
+  110138    2.8030498e+09   4.345087e+05   0.000000e+00     35s
+  110682    2.8030496e+09   7.572944e+05   0.000000e+00     35s
+  109137    2.8030495e+09   2.387103e+05   0.000000e+00     35s
+  110022    2.8030497e+09   2.667011e+05   0.000000e+00     35s
+  109915    2.8030497e+09   3.713984e+05   0.000000e+00     35s
+  108173    2.8030494e+09   3.018947e+05   0.000000e+00     35s
+  109336    2.8030498e+09   2.060710e+06   0.000000e+00     35s
+  113464    2.8030501e+09   4.533780e+05   0.000000e+00     36s
+  112916    2.8030499e+09   6.194558e+05   0.000000e+00     40s
+  113136    2.8030505e+09   2.862038e+05   0.000000e+00     40s
+  113295    2.8030503e+09   5.478384e+05   0.000000e+00     40s
+  112516    2.8030501e+09   8.074830e+05   0.000000e+00     40s
+  110863    2.8030501e+09   1.091804e+06   0.000000e+00     40s
+  112981    2.8030501e+09   1.684109e+06   0.000000e+00     40s
+  113192    2.8030500e+09   1.471084e+06   0.000000e+00     40s
+  114630    2.8030500e+09   6.856373e+05   0.000000e+00     41s
+  113155    2.8030499e+09   4.421652e+05   0.000000e+00     40s
+  111326    2.8030497e+09   2.314594e+06   0.000000e+00     40s
+  116383    2.8030503e+09   5.239758e+05   0.000000e+00     41s
+  111902    2.8030499e+09   4.368871e+05   0.000000e+00     41s
+  115375    2.8030501e+09   5.775121e+05   0.000000e+00     45s
+  115180    2.8030507e+09   4.948665e+05   0.000000e+00     46s
+  115561    2.8030504e+09   1.924472e+06   0.000000e+00     45s
+  115333    2.8030503e+09   2.151762e+05   0.000000e+00     45s
+  113819    2.8030504e+09   4.297388e+05   0.000000e+00     45s
+  117078    2.8030503e+09   3.252227e+06   0.000000e+00     45s
+  115603    2.8030503e+09   4.142342e+05   0.000000e+00     45s
+  115202    2.8030501e+09   7.352564e+05   0.000000e+00     46s
+  113708    2.8030499e+09   6.449913e+05   0.000000e+00     45s
+  118864    2.8030504e+09   4.947811e+05   0.000000e+00     45s
+  116227    2.8030502e+09   8.363064e+05   0.000000e+00     46s
+  114863    2.8030502e+09   1.505386e+06   0.000000e+00     46s
+  117716    2.8030503e+09   3.603357e+05   0.000000e+00     50s
+  118041    2.8030506e+09   5.251122e+05   0.000000e+00     50s
+  117931    2.8030509e+09   1.595134e+05   0.000000e+00     50s
+  119529    2.8030505e+09   1.350476e+05   0.000000e+00     50s
+  117215    2.8030507e+09   5.623345e+05   0.000000e+00     50s
+  118746    2.8030506e+09   2.343864e+05   0.000000e+00     50s
+  119517    2.8030505e+09   1.376254e+06   0.000000e+00     50s
+  117058    2.8030502e+09   6.482682e+05   0.000000e+00     50s
+  118170    2.8030504e+09   2.774248e+05   0.000000e+00     50s
+  122216    2.8030507e+09   1.833510e+05   0.000000e+00     50s
+  116646    2.8030501e+09   9.281019e+05   0.000000e+00     50s
+  117632    2.8030503e+09   3.770323e+05   0.000000e+00     50s
+  121646    2.8030505e+09   2.325231e+05   0.000000e+00     55s
+  120990    2.8030508e+09   4.417747e+05   0.000000e+00     55s
+  121434    2.8030510e+09   3.734032e+05   0.000000e+00     55s
+  122084    2.8030506e+09   1.111265e+06   0.000000e+00     55s
+  120552    2.8030509e+09   2.024142e+05   0.000000e+00     55s
+  119693    2.8030504e+09   1.088679e+06   0.000000e+00     55s
+  122215    2.8030507e+09   2.780193e+05   0.000000e+00     56s
+  123427    2.8030508e+09   2.689808e+05   0.000000e+00     56s
+  120282    2.8030504e+09   2.440608e+05   0.000000e+00     55s
+  125890    2.8030508e+09   9.459006e+05   0.000000e+00     56s
+  121711    2.8030507e+09   6.900721e+04   0.000000e+00     56s
+  120700    2.8030505e+09   3.242528e+05   0.000000e+00     55s
+  125013    2.8030507e+09   3.461210e+05   0.000000e+00     60s
+  124194    2.8030511e+09   2.284781e+05   0.000000e+00     60s
+  124500    2.8030510e+09   2.884870e+05   0.000000e+00     60s
+  123105    2.8030506e+09   2.054168e+05   0.000000e+00     60s
+  125826    2.8030508e+09   1.902133e+05   0.000000e+00     61s
+  125874    2.8030508e+09   3.046055e+05   0.000000e+00     60s
+  125851    2.8030509e+09   9.270210e+05   0.000000e+00     61s
+  123362    2.8030510e+09   2.916430e+05   0.000000e+00     61s
+  123377    2.8030506e+09   6.662910e+04   0.000000e+00     60s
+  124267    2.8030508e+09   4.932154e+05   0.000000e+00     60s
+  128941    2.8030510e+09   2.178104e+05   0.000000e+00     60s
+  124708    2.8030507e+09   7.940980e+05   0.000000e+00     61s
+  128102    2.8030508e+09   1.279243e+05   0.000000e+00     65s
+  127927    2.8030512e+09   1.634880e+04   0.000000e+00     65s
+  126884    2.8030511e+09   3.884216e+05   0.000000e+00     65s
+  128570    2.8030509e+09   7.883000e+05   0.000000e+00     65s
+  126157    2.8030511e+09   6.602884e+04   0.000000e+00     65s
+  128780    2.8030510e+09   4.199349e+05   0.000000e+00     65s
+  128301    2.8030508e+09   2.440356e+04   0.000000e+00     66s
+  131875    2.8030510e+09   1.379477e+04   0.000000e+00     65s
+  126140    2.8030508e+09   3.337613e+05   0.000000e+00     66s
+  126931    2.8030508e+09   3.437831e+05   0.000000e+00     65s
+  125822    2.8030507e+09   1.514168e+05   0.000000e+00     65s
+  127414    2.8030509e+09   1.928147e+05   0.000000e+00     66s
+  128683    2.8030508e+09   0.000000e+00   0.000000e+00     68s
+
+Root relaxation: objective 2.803051e+09, 128683 iterations, 56.62 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   68s
+
+Explored 0 nodes (128683 simplex iterations) in 68.22 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.1620e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050786647e+09, best bound 2.803050786647e+09, gap 0.0000%
+  129494    2.8030512e+09   0.000000e+00   0.000000e+00     69s
+
+Root relaxation: objective 2.803051e+09, 129494 iterations, 58.30 seconds
+  133079    2.8030510e+09   0.000000e+00   0.000000e+00     68s
+
+Root relaxation: objective 2.803051e+09, 133079 iterations, 55.97 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   69s
+
+Explored 0 nodes (129495 simplex iterations) in 69.70 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.5741e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051198963e+09, best bound 2.803051198963e+09, gap 0.0%
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   68s
+
+Explored 0 nodes (133079 simplex iterations) in 68.17 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.4423e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051002041e+09, best bound 2.803051002041e+09, gap 0.0%
+  130719    2.8030508e+09   2.727752e+04   0.000000e+00     71s
+  129045    2.8030512e+09   7.853745e+04   0.000000e+00     70s
+  131515    2.8030510e+09   7.815106e+05   0.000000e+00     70s
+  127840    2.8030508e+09   4.012702e+05   0.000000e+00     70s
+  128650    2.8030512e+09   5.474098e+03   0.000000e+00     70s
+  131066    2.8030510e+09   3.576112e+03   0.000000e+00     70s
+  130587    2.8030509e+09   7.656377e+03   0.000000e+00     70s
+  129662    2.8030509e+09   4.562897e+04   0.000000e+00     70s
+  128438    2.8030508e+09   4.868525e+05   0.000000e+00     70s
+  131756    2.8030509e+09   0.000000e+00   0.000000e+00     73s
+
+Root relaxation: objective 2.803051e+09, 131756 iterations, 62.33 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   73s
+
+Explored 0 nodes (131756 simplex iterations) in 73.24 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7614e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050852026e+09, best bound 2.803050852026e+09, gap 0.0%
+  131597    2.8030510e+09   0.000000e+00   0.000000e+00     72s
+
+Root relaxation: objective 2.803051e+09, 131597 iterations, 61.09 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   72s
+
+Explored 0 nodes (131597 simplex iterations) in 72.51 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7540e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050967673e+09, best bound 2.803050967673e+09, gap 0.0%
+  129752    2.8030512e+09   0.000000e+00   0.000000e+00     73s
+
+Root relaxation: objective 2.803051e+09, 129752 iterations, 61.71 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   73s
+  131318    2.8030509e+09   0.000000e+00   0.000000e+00     72s
+
+Root relaxation: objective 2.803051e+09, 131318 iterations, 60.76 seconds
+
+Explored 0 nodes (129753 simplex iterations) in 73.25 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.7483e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051157388e+09, best bound 2.803051157388e+09, gap 0.0%
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   72s
+
+Explored 0 nodes (131318 simplex iterations) in 72.62 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.2524e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050922312e+09, best bound 2.803050922312e+09, gap 0.0%
+  130366    2.8030508e+09   0.000000e+00   0.000000e+00     74s
+
+Root relaxation: objective 2.803051e+09, 130366 iterations, 62.47 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   73s
+
+Explored 0 nodes (130366 simplex iterations) in 73.74 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.9733e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050762601e+09, best bound 2.803050762601e+09, gap 0.0%
+  134146    2.8030510e+09   1.920504e+03   0.000000e+00     75s
+  132431    2.8030512e+09   4.591523e+03   0.000000e+00     76s
+  131319    2.8030509e+09   3.885269e+04   0.000000e+00     76s
+  131649    2.8030509e+09   0.000000e+00   0.000000e+00     75s
+
+Root relaxation: objective 2.803051e+09, 131649 iterations, 62.80 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   74s
+
+Explored 0 nodes (131649 simplex iterations) in 74.86 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.4583e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050863368e+09, best bound 2.803050863368e+09, gap 0.0%
+  134582    2.8030510e+09   0.000000e+00   0.000000e+00     76s
+
+Root relaxation: objective 2.803051e+09, 134582 iterations, 64.74 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   76s
+
+Explored 0 nodes (134582 simplex iterations) in 76.56 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7327e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051008288e+09, best bound 2.803051008288e+09, gap 0.0%
+  132826    2.8030512e+09   0.000000e+00   0.000000e+00     77s
+
+Root relaxation: objective 2.803051e+09, 132826 iterations, 66.14 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   77s
+
+Explored 0 nodes (132826 simplex iterations) in 77.69 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (9.8866e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803051204941e+09, best bound 2.803051204941e+09, gap 0.0%
+  132883    2.8030509e+09   0.000000e+00   0.000000e+00     78s
+
+Root relaxation: objective 2.803051e+09, 132883 iterations, 66.61 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.803051e+09 2.8031e+09  0.00%     -   78s
+
+Explored 0 nodes (132883 simplex iterations) in 78.51 seconds
+Thread count was 12 (of 12 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Warning: max constraint violation (8.7994e-04) exceeds tolerance
+         (possibly due to large right hand sides)
+Best objective 2.803050881229e+09, best bound 2.803050881229e+09, gap 0.0%
