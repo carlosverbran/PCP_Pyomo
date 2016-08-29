@@ -11,7 +11,7 @@ import multiprocessing as mp
 from pyomo.core import *
 from pyomo.opt import SolverFactory
 from ReferenceModel import model
-from wrcsvCVB import pyomo_postprocess
+from lectorCVB import pyomo_postprocess
 
 options_in = {}
 
