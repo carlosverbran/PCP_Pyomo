@@ -46,11 +46,7 @@ def pyomo_postprocess(results, n, instance):
 			#status horario
 			laux = []
 			laux.extend([gen,'Generator','Status','Hour',hora])
-			if instance.W[gen,hora].value==1:
-				laux.append(1)
-				auxDia += 1
-			else:
-				laux.append(0)
+            laux.append(instance.W[gen,hora].value)
 			f.writerow(laux)
 			#status diario
 			if hora%24==0:
